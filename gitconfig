@@ -170,3 +170,6 @@
 	whitespace = nowarn
 [rerere]
 	enabled = true
+[user]
+	name = Amane Nikaido
+	email = amane.nikaido@gmail.com
